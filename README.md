@@ -6,6 +6,7 @@ Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.
 # Question 1
 <iframe  src='snow-map.html' width=600 height=400 frameBorder=0></iframe>
 This shows the locations of different pumps, their names, and the number of deaths from that location.
+
 #Question 2
 <iframe  src='plotly-fig.html' width=600 height=400 frameBorder=0></iframe>
 This shows the relationship between the Mother, Father, and child's height. 
