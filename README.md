@@ -12,6 +12,6 @@ This shows the locations of different pumps, their names, and the number of deat
 This shows the relationship between the Mother, Father, and child's height. 
 
 # Question 3
-<iframe  src='france-fig.html' width=600 height=400 frameBorder=0></iframe>
+<iframe  src='france-fi.html' width=600 height=400 frameBorder=0></iframe>
 This image shows the population density of different departments in France.
 
